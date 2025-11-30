@@ -1,68 +1,95 @@
-<!-- Título animado -->
+<h1 align="center">👋 Olá, eu sou o Vinícius Moura</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1200&color=00BFFF&center=true&vCenter=true&width=800&lines=Olá!+Eu+sou+Vinicius+👋;Desenvolvedor+em+evolução+🚀;Apaixonado+por+Tecnologia+e+Inovação+💡" alt="Typing SVG" />
+  Desenvolvedor em formação • Estudante de ADS • Entusiasta de Tecnologia  
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🧑‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor em formação.  
-Tenho foco em **Python, Web, IoT e Automação**, e busco sempre aprender novas tecnologias para construir projetos reais e evoluir como profissional.
-
-Atualmente trabalho para melhorar minhas habilidades, criar projetos práticos e montar meu portfólio.
+ Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia
+Atualmente, foco meus estudos em **Python, Desenvolvimento Web e Projetos IoT**.  
+Busco constantemente evoluir criando projetos práticos e construindo meu portfólio para entrar no mercado como desenvolvedor.
 
 ---
 
-## 🚀 Tecnologias que uso ou estou aprendendo
+## 🌐 Conecte-se comigo
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
 
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🚀 Habilidades & Tecnologias
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Viniciusmbbr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+### 🚧 Linguagens & Ferramentas
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusmbbr&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,sqlite,figma&theme=dark" />
 
 </div>
 
 ---
 
-## 🔥 Streak
+## 📊 Estatísticas
 
 <div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Viniciusmbbr&theme=tokyonight&hide_border=true)
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Viniciusmbbr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusmbbr&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 Trophies
+## 🔥 Streak & Atividade
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Viniciusmbbr&theme=tokyonight&no-frame=true&row=1&column=6)
+<img height="160em" src="https://streak-stats.demolab.com/?user=Viniciusmbbr&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🐍 Snake das Contribuições (opcional)
+## 🏆 Conquistas
 
-```md
-![Snake animation](https://raw.githubusercontent.com/Viniciusmbbr/Viniciusmbbr/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Viniciusmbbr&theme=tokyonight&no-frame=true&margin-w=10" />
+
+</div>
+
+---
+
+## 📂 Projetos Destaque
+
+> *Adicione aqui quando subir seus primeiros projetos para o GitHub.*
+
+- 🚗 **CarCollision IoT** — Sistema de detecção de colisão com MQTT  
+- 🌐 **Landing Page X**  
+- 🔧 **Automação com Python**  
+- 📱 **Interface Tkinter – Nutrição Inteligente**  
+
+---
+
+## ✨ Curiosidades
+
+- 💡 Apaixonado por tecnologia, automação e aprendizado contínuo  
+- 🧠 Sempre estudando Python, Web e IoT  
+- 🎯 Objetivo atual: Construir um portfólio forte para iniciar na área  
+
+---
+
+## 💬 Frase que me inspira
+
+> “O esforço de hoje é o resultado de amanhã.”
 
