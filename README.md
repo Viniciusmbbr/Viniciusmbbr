@@ -38,18 +38,6 @@ Busco constantemente evoluir criando projetos práticos e construindo meu portf�
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Viniciusmbbr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusmbbr&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🔥 Streak & Atividade
 
 <div align="center">
