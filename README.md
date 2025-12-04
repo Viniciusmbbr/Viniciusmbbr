@@ -32,7 +32,7 @@ Busco constantemente evoluir criando projetos práticos e construindo meu portf�
 
 ### 🚧 Linguagens & Ferramentas
 
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,sqlite,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,&theme=dark" />
 
 </div>
 
