@@ -32,27 +32,7 @@ Busco constantemente evoluir criando projetos práticos e construindo meu portf�
 
 ### 🚧 Linguagens & Ferramentas
 
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,&theme=dark" />
-
-</div>
-
----
-
-## 🔥 Streak & Atividade
-
-<div align="center">
-
-<img height="160em" src="https://streak-stats.demolab.com/?user=Viniciusmbbr&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Viniciusmbbr&theme=tokyonight&no-frame=true&margin-w=10" />
+<img src="https://skillicons.dev/icons?i=python,html,css,github,&theme=dark" />
 
 </div>
 
@@ -63,9 +43,9 @@ Busco constantemente evoluir criando projetos práticos e construindo meu portf�
 > *Adicione aqui quando subir seus primeiros projetos para o GitHub.*
 
 - 🚗 **CarCollision IoT** — Sistema de detecção de colisão com MQTT  
-- 🌐 **Landing Page X**  
-- 🔧 **Automação com Python**  
-- 📱 **Interface Tkinter – Nutrição Inteligente**  
+- 🌐 **Landing Page **—Minha Landing Page
+- 📊Dados-v**—analise de dados em python
+  
 
 ---
 
