@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Vinícius Moura</h1>
+<h1 align="center">👋 Olá, eu sou o Vinicius Moura</h1>
 
 <p align="center">
   Desenvolvedor em formação • Estudante de ADS • Entusiasta de Tecnologia  
@@ -44,7 +44,7 @@ Busco constantemente evoluir criando projetos práticos e construindo meu portf�
 
 - 🚗 **CarCollision IoT** — Sistema de detecção de colisão com MQTT  
 - 🌐 **Landing Page **—Minha Landing Page
-- 📊Dados-v**—analise de dados em python
+- 📊Dados-v**—Analise de dados em python
   
 
 ---
