@@ -9,7 +9,7 @@
 ## 🧑‍💻 Sobre mim
 
  Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia
-Atualmente, foco meus estudos em **Python, Desenvolvimento Web e Projetos IoT**.  
+Atualmente, foco meus estudos em **Python,  
 Busco constantemente evoluir criando projetos práticos e construindo meu portfólio para entrar no mercado como desenvolvedor.
 
 ---
